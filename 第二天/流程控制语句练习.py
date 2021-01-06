@@ -72,4 +72,3 @@ while row<=10:
     row+=1
     print('')  #换行
     pass
-#打印等腰三角形
